@@ -29,7 +29,6 @@ class OrderActivity : AppCompatActivity() {
         binding = ActivityOrderBinding.inflate(layoutInflater)
         setContentView(binding.root)
         initView()
-
     }
 
     private fun initView(){

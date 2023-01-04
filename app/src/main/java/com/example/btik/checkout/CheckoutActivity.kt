@@ -82,7 +82,6 @@ class CheckoutActivity : AppCompatActivity() {
                         if (product?.namaBarang == query){
                             productList.add(product)
                             dataBarang = product
-
                         }
                     }
                     mAdapter.notifyDataSetChanged()
