@@ -1,143 +1,74 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/congrats_activity.xml",
-        "source": "com.example.btik.app-main-63:/layout/congrats_activity.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_confirm.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_confirm.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/item_list_barang.xml",
-        "source": "com.example.btik.app-main-63:/layout/item_list_barang.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\congrats_activity.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\congrats_activity.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_noresi.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_noresi.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_order.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_order.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/product_view.xml",
-        "source": "com.example.btik.app-main-63:/layout/product_view.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_splash_screen.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_splash_screen.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_user_information.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_user_information.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_confirm.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_confirm.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_checkout.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_register.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_register.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_main.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_main.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_verification.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_verification.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_order.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_order.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_login.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_login.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_address.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_address.xml"
     },
     {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_profile.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_profile.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_checkout.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_checkout.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_address.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_address.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_verification.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_verification.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_user_information.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_user_information.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_edit_profile.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_edit_profile.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_dashboard.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_dashboard.xml"
-=======
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_confirm.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_confirm.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_profile.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_edit_profile.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_edit_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_splash_screen.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_verification.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_verification.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\product_view.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\product_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\item_list_barang.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\item_list_barang.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_user_information.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_user_information.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_dashboard.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_dashboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\congrats_activity.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\congrats_activity.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_edit_profile.xml"
     },
     {
         "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_profile.xml",
         "source": "com.example.btik.app-main-63:/layout/activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_noresi.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_noresi.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\product_view.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\product_view.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_order.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_order.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_noresi.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_noresi.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_address.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_address.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\item_list_barang.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\item_list_barang.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_checkout.xml",
-        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_checkout.xml"
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\ikhsa\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_dashboard.xml"
     }
 ]

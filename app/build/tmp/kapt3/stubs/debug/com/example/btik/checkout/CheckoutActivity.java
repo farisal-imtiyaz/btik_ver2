@@ -18,12 +18,12 @@ public final class CheckoutActivity extends androidx.appcompat.app.AppCompatActi
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.firebase.database.DatabaseReference getMDataBase() {
         return null;
     }
     
-    public final void setMDataBase(@org.jetbrains.annotations.NotNull()
+    public final void setMDataBase(@org.jetbrains.annotations.NotNull
     com.google.firebase.database.DatabaseReference p0) {
     }
     
@@ -42,8 +42,8 @@ public final class CheckoutActivity extends androidx.appcompat.app.AppCompatActi
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     

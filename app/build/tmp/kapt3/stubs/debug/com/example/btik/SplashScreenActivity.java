@@ -14,8 +14,8 @@ public final class SplashScreenActivity extends androidx.appcompat.app.AppCompat
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
 }

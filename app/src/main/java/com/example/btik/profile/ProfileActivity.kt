@@ -5,20 +5,14 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.net.toUri
 import androidx.lifecycle.lifecycleScope
-<<<<<<< HEAD
-=======
 import com.example.btik.dashboard.Dashboard
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
 import com.example.btik.databinding.ActivityProfileBinding
 import com.example.btik.db.DataBarangDatabase
 import com.example.btik.deliveryaddress.AddressActivity
 import com.example.btik.editprofile.EditProfile
 import com.example.btik.login.LoginActivity
 import com.example.btik.order.OrderActivity
-<<<<<<< HEAD
-=======
 import com.example.btik.dashboard.ProductViewActivity
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
 import com.example.btik.util.IPreferenceHelper
 import com.example.btik.util.PreferenceManager
 import kotlinx.coroutines.Dispatchers
@@ -52,8 +46,6 @@ class ProfileActivity: AppCompatActivity() {
                 startActivity(Intent(this@ProfileActivity,OrderActivity::class.java))
             }
 
-<<<<<<< HEAD
-=======
             arrow1.setOnClickListener {
                 startActivity(Intent(this@ProfileActivity,EditProfile::class.java))
             }
@@ -83,7 +75,6 @@ class ProfileActivity: AppCompatActivity() {
                 startActivity(Intent(this@ProfileActivity,Dashboard::class.java))
             }
 
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
             btnLogOut.setOnClickListener {
                 lifecycleScope.launch(Dispatchers.IO){
                     db.deleteData()
@@ -91,10 +82,6 @@ class ProfileActivity: AppCompatActivity() {
                     startActivity(Intent(this@ProfileActivity,LoginActivity::class.java))
                     finishAffinity()
                 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
             }
         }
     }

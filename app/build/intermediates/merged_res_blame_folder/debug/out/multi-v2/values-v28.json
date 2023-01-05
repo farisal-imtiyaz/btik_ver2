@@ -4,11 +4,7 @@
             "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-v28/values-v28.xml",
             "map": [
                 {
-<<<<<<< HEAD
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\52119da5314beb2397222c1225dcdfcf\\transformed\\material-1.7.0\\res\\values-v28\\values-v28.xml",
-=======
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\52119da5314beb2397222c1225dcdfcf\\transformed\\material-1.7.0\\res\\values-v28\\values-v28.xml",
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -18,11 +14,7 @@
                     }
                 },
                 {
-<<<<<<< HEAD
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v28\\values-v28.xml",
-=======
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v28\\values-v28.xml",
->>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

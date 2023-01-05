@@ -6,148 +6,148 @@ import java.lang.System;
 public class PreferenceManager implements com.example.btik.util.IPreferenceHelper {
     private final java.lang.String PREFS_NAME = "SharedPreferenceBtik";
     private android.content.SharedPreferences preferences;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final com.example.btik.util.PreferenceManager.Companion Companion = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String STREET_ADDRESS = "street_address";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String CITY_ADDRESS = "city_address";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String PHONE_NUMBER_ADDRESS = "phone_number_address";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String POSTAL_CODE_ADDRESS = "postal_code_address";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String ITEM_NAME_CHECKOUT = "item_name_checkout";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String PROFILE_PICTURE = "profile_picture";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String USERNAME = "username";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String EMAIL = "email";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String PHONE_NUMBER = "phone_number";
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String IS_LOGIN = "is_Login";
     
-    public PreferenceManager(@org.jetbrains.annotations.NotNull()
+    public PreferenceManager(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
         super();
     }
     
-    @java.lang.Override()
-    public void setStreetAddress(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setStreetAddress(@org.jetbrains.annotations.NotNull
     java.lang.String streetAddress) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getStreetAddress() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setCityAddress(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setCityAddress(@org.jetbrains.annotations.NotNull
     java.lang.String cityAddress) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getCityAddress() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setPhoneNumberAddress(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setPhoneNumberAddress(@org.jetbrains.annotations.NotNull
     java.lang.String phoneNumberAddress) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getPhoneNumberAddress() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setPostalCodeAddress(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setPostalCodeAddress(@org.jetbrains.annotations.NotNull
     java.lang.String postalCodeAddress) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getPostalCodeAddress() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setItemName(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setItemName(@org.jetbrains.annotations.NotNull
     java.lang.String itemName) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getItemName() {
         return null;
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void clearPrefs() {
     }
     
-    @java.lang.Override()
-    public void clearSpecificPrefs(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void clearSpecificPrefs(@org.jetbrains.annotations.NotNull
     java.lang.String key) {
     }
     
-    @java.lang.Override()
-    public void setProfilePicture(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setProfilePicture(@org.jetbrains.annotations.NotNull
     java.lang.String key) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getProfilePicture() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setUsername(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setUsername(@org.jetbrains.annotations.NotNull
     java.lang.String key) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getUsername() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setEmail(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setEmail(@org.jetbrains.annotations.NotNull
     java.lang.String key) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getEmail() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setPhoneNumber(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setPhoneNumber(@org.jetbrains.annotations.NotNull
     java.lang.String key) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getPhoneNumber() {
         return null;
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public boolean getIsLogin() {
         return false;
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void setIsLogin(boolean key) {
     }
     

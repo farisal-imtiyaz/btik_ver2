@@ -11,26 +11,26 @@ public final class RegisterActivity extends androidx.appcompat.app.AppCompatActi
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.example.btik.databinding.ActivityRegisterBinding getBinding() {
         return null;
     }
     
-    public final void setBinding(@org.jetbrains.annotations.NotNull()
+    public final void setBinding(@org.jetbrains.annotations.NotNull
     com.example.btik.databinding.ActivityRegisterBinding p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.google.firebase.auth.FirebaseAuth getAuth() {
         return null;
     }
     
-    public final void setAuth(@org.jetbrains.annotations.NotNull()
+    public final void setAuth(@org.jetbrains.annotations.NotNull
     com.google.firebase.auth.FirebaseAuth p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     

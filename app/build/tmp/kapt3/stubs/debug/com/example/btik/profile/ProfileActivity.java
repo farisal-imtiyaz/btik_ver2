@@ -20,8 +20,8 @@ public final class ProfileActivity extends androidx.appcompat.app.AppCompatActiv
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
@@ -31,7 +31,7 @@ public final class ProfileActivity extends androidx.appcompat.app.AppCompatActiv
     private final void checkPreference() {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     protected void onResume() {
     }
 }
