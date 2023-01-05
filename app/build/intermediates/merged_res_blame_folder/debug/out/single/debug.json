@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "com.example.btik.app-merged_res-61:/drawable_delivery.PNG.flat",
         "source": "com.example.btik.app-main-63:/drawable/delivery.PNG"
     },
@@ -270,5 +271,281 @@
     {
         "merged": "com.example.btik.app-merged_res-61:/drawable_ic_bca.png.flat",
         "source": "com.example.btik.app-main-63:/drawable/ic_bca.png"
+=======
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_edittext.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_search_text.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_search_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\font_lato.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\font\\lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_bca.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_bca.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_petasan.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\petasan.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_wallet_icon.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_pen.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\pen.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_noresi.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_noresi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_address.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_product_view.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\product_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_log_out.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_log_out.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_box_address.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_box_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button1.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button_buynow.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button_buynow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_confirm.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button_barang_2.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button_barang_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-pngs-56:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_verification.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button_size.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_baseline_person.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_baseline_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_image_upload.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_image_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.btik.app-merged_res-61:/layout_activity_profile.xml.flat",
+        "source": "com.example.btik.app-main-63:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_backround_checkout1.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_backround_checkout1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button2.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_user_information.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_user_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_shipping_car.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\shipping_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_delivery.PNG.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\delivery.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\font_futura_medium.otf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\font\\futura_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_congrats_activity.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\congrats_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_product_view.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_product_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\font_spartan_semibold.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\font\\spartan_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_back_button.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\back_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_foto.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\foto.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_burger_button.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\burger_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\layout_item_list_barang.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\item_list_barang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_button_barang.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_button_barang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_backround_checkout2.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_backround_checkout2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
     }
 ]

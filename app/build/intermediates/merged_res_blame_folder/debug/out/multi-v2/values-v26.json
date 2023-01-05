@@ -4,7 +4,11 @@
             "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-v26/values-v26.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v26\\values-v26.xml",
+=======
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v26\\values-v26.xml",
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

@@ -4,6 +4,7 @@
             "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-v24/values-v24.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
@@ -15,6 +16,9 @@
                 },
                 {
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\52119da5314beb2397222c1225dcdfcf\\transformed\\material-1.7.0\\res\\values-v24\\values-v24.xml",
+=======
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\52119da5314beb2397222c1225dcdfcf\\transformed\\material-1.7.0\\res\\values-v24\\values-v24.xml",
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +37,21 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\ikhsa\\.gradle\\caches\\transforms-3\\699043f3f35996ef58c7df794537b584\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+=======
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\699043f3f35996ef58c7df794537b584\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

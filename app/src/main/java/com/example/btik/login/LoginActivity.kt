@@ -58,7 +58,11 @@ class LoginActivity : AppCompatActivity() {
             }
 
             //validasi panjang password
+<<<<<<< HEAD
             if (password.length <= 8){
+=======
+            if (password.length < 8){
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                 binding.loginPassword.error = "Password at least 8 Character"
                 binding.loginPassword.requestFocus()
                 return@setOnClickListener

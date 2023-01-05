@@ -82,7 +82,10 @@ class CheckoutActivity : AppCompatActivity() {
                         if (product?.namaBarang == query){
                             productList.add(product)
                             dataBarang = product
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                         }
                     }
                     mAdapter.notifyDataSetChanged()

@@ -4,7 +4,11 @@
             "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-w1240dp-v13/values-w1240dp-v13.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\kuliah\\PBO\\TUBES\\Btik\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+=======
+                    "source": "C:\\Users\\Asus\\Documents\\college\\semester 5\\RPL IMPAL\\Btik-ver-2\\Btik\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+>>>>>>> 5c5abf55601dec949205ff6de928f56a9be0b8e9
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
