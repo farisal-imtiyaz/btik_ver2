@@ -101,13 +101,13 @@
                     android:layout_below="@id/tvNamaBarang">
 
                     <androidx.appcompat.widget.AppCompatButton
-                        android:id="@+id/btnPlusItem"
+                        android:id="@+id/btnMinItem"
                         android:layout_width="45dp"
                         android:layout_height="40dp"
                         android:fontFamily="@font/lato"
                         android:textColor="@color/black"
                         android:textSize="20sp"
-                        android:text="+"
+                        android:text="-"
                         android:background="@android:color/transparent"/>
 
                     <TextView
@@ -121,13 +121,13 @@
                         android:textStyle="bold" />
 
                     <androidx.appcompat.widget.AppCompatButton
-                        android:id="@+id/btnMinItem"
+                        android:id="@+id/btnPlusItem"
                         android:layout_width="45dp"
                         android:layout_height="40dp"
                         android:fontFamily="@font/lato"
                         android:textColor="@color/black"
                         android:textSize="20sp"
-                        android:text="-"
+                        android:text="+"
                         android:background="@android:color/transparent"/>
                 </LinearLayout>
 

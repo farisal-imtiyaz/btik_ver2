@@ -41,8 +41,12 @@ class ProductViewActivity : AppCompatActivity() {
             }
 
             btnMinItem.setOnClickListener {
-                totalItem--
+                if(totalItem > 1){
+                    totalItem--
+                }
                 tvTotalItem.text = totalItem.toString()
+
+
             }
             initButtonSize()
 

@@ -18,9 +18,9 @@ public class ProductViewBindingImpl extends ProductViewBinding  {
         sViewsWithIds.put(R.id.iv_product, 4);
         sViewsWithIds.put(R.id.tvPrice, 5);
         sViewsWithIds.put(R.id.lytSecond, 6);
-        sViewsWithIds.put(R.id.btnPlusItem, 7);
+        sViewsWithIds.put(R.id.btnMinItem, 7);
         sViewsWithIds.put(R.id.tvTotalItem, 8);
-        sViewsWithIds.put(R.id.btnMinItem, 9);
+        sViewsWithIds.put(R.id.btnPlusItem, 9);
         sViewsWithIds.put(R.id.tvTitleDesc, 10);
         sViewsWithIds.put(R.id.tvTitleSize, 11);
         sViewsWithIds.put(R.id.lytSize, 12);
@@ -46,8 +46,8 @@ public class ProductViewBindingImpl extends ProductViewBinding  {
         super(bindingComponent, root, 0
             , (android.widget.ImageView) bindings[3]
             , (androidx.appcompat.widget.AppCompatButton) bindings[18]
-            , (androidx.appcompat.widget.AppCompatButton) bindings[9]
             , (androidx.appcompat.widget.AppCompatButton) bindings[7]
+            , (androidx.appcompat.widget.AppCompatButton) bindings[9]
             , (androidx.appcompat.widget.AppCompatButton) bindings[17]
             , (androidx.appcompat.widget.AppCompatButton) bindings[16]
             , (androidx.appcompat.widget.AppCompatButton) bindings[15]

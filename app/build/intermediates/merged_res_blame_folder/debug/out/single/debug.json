@@ -172,10 +172,6 @@
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.btik.app-merged_res-61:/layout_activity_profile.xml.flat",
-        "source": "com.example.btik.app-main-63:/layout/activity_profile.xml"
-    },
-    {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\drawable_custom_backround_checkout1.xml.flat",
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\drawable\\custom_backround_checkout1.xml"
     },
@@ -270,6 +266,10 @@
     {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.btik.app-merged_res-61:/layout_product_view.xml.flat",
+        "source": "com.example.btik.app-main-63:/layout/product_view.xml"
     },
     {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",

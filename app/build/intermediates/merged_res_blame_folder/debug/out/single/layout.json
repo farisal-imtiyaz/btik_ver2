@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_confirm.xml"
     },
     {
+        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/product_view.xml",
+        "source": "com.example.btik.app-main-63:/layout/product_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_login.xml",
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\activity_login.xml"
     },
@@ -46,10 +50,6 @@
     {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\congrats_activity.xml",
         "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-main-63:\\layout\\congrats_activity.xml"
-    },
-    {
-        "merged": "com.example.btik.app-mergeDebugResources-60:/layout/activity_profile.xml",
-        "source": "com.example.btik.app-main-63:/layout/activity_profile.xml"
     },
     {
         "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.4\\com.example.btik.app-mergeDebugResources-60:\\layout\\activity_noresi.xml",
