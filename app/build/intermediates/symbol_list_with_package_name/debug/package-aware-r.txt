@@ -2787,7 +2787,6 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id FirstFragment
-id Gender
 id META
 id NO_DEBUG
 id ProductImg
@@ -2864,7 +2863,6 @@ id add
 id address
 id adjust_height
 id adjust_width
-id age
 id alertTitle
 id aligned
 id all
@@ -3030,11 +3028,9 @@ id forever
 id fragment_container_view_tag
 id frost
 id fullscreen_header
-id gambar
 id gambar1
 id gambar2
 id gambar3
-id gender
 id ghost_view
 id ghost_view_holder
 id glide_custom_view_target_tag
@@ -3149,7 +3145,6 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id nama
-id name
 id nav_controller_view_tag
 id nav_graph
 id nav_graph2
@@ -3193,7 +3188,6 @@ id path
 id pathRelative
 id peekHeight
 id percent
-id phoneNumber
 id phone_number
 id pin
 id position
@@ -3308,7 +3302,6 @@ id teks_akhir
 id teks_atas
 id teks_awal
 id teks_delivery
-id teks_login
 id teks_order
 id teks_profil
 id text
@@ -3517,13 +3510,11 @@ layout activity_confirm
 layout activity_dashboard
 layout activity_edit_profile
 layout activity_login
-layout activity_main
 layout activity_noresi
 layout activity_order
 layout activity_profile
 layout activity_register
 layout activity_splash_screen
-layout activity_user_information
 layout activity_verification
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

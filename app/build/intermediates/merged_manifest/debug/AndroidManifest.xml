@@ -71,9 +71,6 @@
             android:label="@string/title_activity_register"
             android:theme="@style/Theme.Btik.NoActionBar" />
         <activity
-            android:name="com.example.btik.MainActivity"
-            android:exported="false" />
-        <activity
             android:name="com.example.btik.checkout.CheckoutActivity"
             android:exported="false" />
         <activity

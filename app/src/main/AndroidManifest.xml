@@ -54,9 +54,6 @@
             android:label="@string/title_activity_register"
             android:theme="@style/Theme.Btik.NoActionBar" />
         <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".checkout.CheckoutActivity"
             android:exported="false"/>
         <activity

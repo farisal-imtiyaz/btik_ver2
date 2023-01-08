@@ -52,7 +52,6 @@ font lato
 font roboto
 font spartan_semibold
 id FirstFragment
-id Gender
 id ProductImg
 id ProductInfo
 id ProductName
@@ -60,7 +59,6 @@ id SecondFragment
 id action_FirstFragment_to_SecondFragment
 id action_SecondFragment_to_FirstFragment
 id address
-id age
 id arrow_1
 id arrow_2
 id arrow_3
@@ -90,11 +88,9 @@ id email
 id etEmail
 id etPhoneNumber
 id etUsername
-id gambar
 id gambar1
 id gambar2
 id gambar3
-id gender
 id info
 id ivBca
 id ivUpload
@@ -106,12 +102,10 @@ id login_password
 id lytSecond
 id lytSize
 id nama
-id name
 id nav_graph
 id nav_graph2
 id no_hp
 id no_resi
-id phoneNumber
 id phone_number
 id postal_code
 id profile_image
@@ -131,7 +125,6 @@ id teks_akhir
 id teks_atas
 id teks_awal
 id teks_delivery
-id teks_login
 id teks_order
 id teks_profil
 id text_email
@@ -159,13 +152,11 @@ layout activity_confirm
 layout activity_dashboard
 layout activity_edit_profile
 layout activity_login
-layout activity_main
 layout activity_noresi
 layout activity_order
 layout activity_profile
 layout activity_register
 layout activity_splash_screen
-layout activity_user_information
 layout activity_verification
 layout congrats_activity
 layout item_list_barang
