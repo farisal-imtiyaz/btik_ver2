@@ -7,11 +7,11 @@
     android:orientation="vertical"
     android:background="@color/blue"
     android:gravity="center">
-    
+
     <ImageView
-        android:layout_width="249dp"
+        android:layout_width="294dp"
         android:layout_height="258dp"
-        android:src="@drawable/logo"/>
+        android:src="@drawable/logo" />
 
 </LinearLayout>
     
