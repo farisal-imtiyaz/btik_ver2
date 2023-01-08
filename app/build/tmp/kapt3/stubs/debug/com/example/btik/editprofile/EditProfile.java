@@ -7,9 +7,9 @@ public final class EditProfile extends androidx.appcompat.app.AppCompatActivity 
     private com.example.btik.databinding.ActivityEditProfileBinding binding;
     private final kotlin.Lazy preferenceHelper$delegate = null;
     private android.net.Uri imageData;
-    @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
     private com.google.firebase.auth.FirebaseUser user;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final com.example.btik.editprofile.EditProfile.Companion Companion = null;
     private static final int IMAGE_CHOOSE = 1000;
     private static final int PERMISSION_CODE = 1001;
@@ -22,17 +22,17 @@ public final class EditProfile extends androidx.appcompat.app.AppCompatActivity 
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
     public final com.google.firebase.auth.FirebaseUser getUser() {
         return null;
     }
     
-    public final void setUser(@org.jetbrains.annotations.Nullable()
+    public final void setUser(@org.jetbrains.annotations.Nullable
     com.google.firebase.auth.FirebaseUser p0) {
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
@@ -42,14 +42,14 @@ public final class EditProfile extends androidx.appcompat.app.AppCompatActivity 
     private final void checkPreference() {
     }
     
-    @java.lang.Override()
-    public void onRequestPermissionsResult(int requestCode, @org.jetbrains.annotations.NotNull()
-    java.lang.String[] permissions, @org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void onRequestPermissionsResult(int requestCode, @org.jetbrains.annotations.NotNull
+    java.lang.String[] permissions, @org.jetbrains.annotations.NotNull
     int[] grantResults) {
     }
     
-    @java.lang.Override()
-    protected void onActivityResult(int requestCode, int resultCode, @org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onActivityResult(int requestCode, int resultCode, @org.jetbrains.annotations.Nullable
     android.content.Intent data) {
     }
     

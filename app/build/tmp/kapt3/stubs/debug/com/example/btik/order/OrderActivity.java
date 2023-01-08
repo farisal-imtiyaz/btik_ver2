@@ -17,8 +17,8 @@ public final class OrderActivity extends androidx.appcompat.app.AppCompatActivit
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     

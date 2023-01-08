@@ -7,7 +7,7 @@ public final class ProductViewActivity extends androidx.appcompat.app.AppCompatA
     private com.example.btik.databinding.ProductViewBinding binding;
     private com.example.btik.dashboard.DataBarang data;
     private int totalItem = 1;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private java.lang.String selectedSize = "";
     private final kotlin.Lazy preferenceHelper$delegate = null;
     private final java.lang.String ITEM_NAME_CHECKOUT = "item_name_checkout";
@@ -23,12 +23,12 @@ public final class ProductViewActivity extends androidx.appcompat.app.AppCompatA
     public final void setTotalItem(int p0) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final java.lang.String getSelectedSize() {
         return null;
     }
     
-    public final void setSelectedSize(@org.jetbrains.annotations.NotNull()
+    public final void setSelectedSize(@org.jetbrains.annotations.NotNull
     java.lang.String p0) {
     }
     
@@ -36,8 +36,8 @@ public final class ProductViewActivity extends androidx.appcompat.app.AppCompatA
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     

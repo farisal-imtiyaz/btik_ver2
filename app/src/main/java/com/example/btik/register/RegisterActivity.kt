@@ -59,6 +59,13 @@ class RegisterActivity : AppCompatActivity() {
 
             //validasi panjang password
             if (password.length < 8){
+                binding.phoneNumber.error = "Phone number mush fill"
+                binding.phoneNumber.requestFocus()
+                return@setOnClickListener
+            }
+
+
+            if(phone.isEmpty()){
                 binding.regisPassword.error = "Password at least 8 Character"
                 binding.regisPassword.requestFocus()
                 return@setOnClickListener

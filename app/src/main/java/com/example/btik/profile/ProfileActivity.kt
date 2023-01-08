@@ -82,7 +82,6 @@ class ProfileActivity: AppCompatActivity() {
                     startActivity(Intent(this@ProfileActivity,LoginActivity::class.java))
                     finishAffinity()
                 }
-
             }
         }
     }
