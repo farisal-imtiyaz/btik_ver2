@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.firebase:firebase-database-ktx:20.1.0@aar">
+  <library name="Gradle: com.google.firebase:firebase-database-ktx:20.1.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7eb2f97ee7a40addef8428181b0b1801/transformed/firebase-database-ktx-20.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7eb2f97ee7a40addef8428181b0b1801/transformed/firebase-database-ktx-20.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7eb2f97ee7a40addef8428181b0b1801/transformed/firebase-database-ktx-20.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/17b851d5e8581637a33a3c3f8b2214a3/transformed/firebase-database-ktx-20.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/17b851d5e8581637a33a3c3f8b2214a3/transformed/firebase-database-ktx-20.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/20.1.0/bb3093c5706c9864fdef3c5163d0e92ff732cc7e/firebase-database-ktx-20.1.0-javadoc.jar!/" />

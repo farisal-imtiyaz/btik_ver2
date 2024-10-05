@@ -1,9 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.firebase:firebase-auth:21.1.0@aar">
+  <library name="Gradle: com.google.firebase:firebase-auth:21.1.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f173b2b9aded835d7435178b37156c43/transformed/firebase-auth-21.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f173b2b9aded835d7435178b37156c43/transformed/firebase-auth-21.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f173b2b9aded835d7435178b37156c43/transformed/firebase-auth-21.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f96898cc4987b7fb02db7c7d7e2ad690/transformed/firebase-auth-21.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f96898cc4987b7fb02db7c7d7e2ad690/transformed/firebase-auth-21.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.1.0/8fe4e2822e0807fe7cf8eaebb350de61677c793f/firebase-auth-21.1.0-javadoc.jar!/" />

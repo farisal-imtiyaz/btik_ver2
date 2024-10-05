@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-v26/values-v26.xml",
+            "outputFile": "com.example.btik.app-mergeDebugResources-61:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/faikarghifari/.gradle/caches/transforms-3/e7a43f5a01603e0a2c7c74ebcfa272e9/transformed/appcompat-1.5.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

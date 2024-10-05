@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.btik.app-mergeDebugResources-59:/values-v16/values-v16.xml",
+            "outputFile": "com.example.btik.app-mergeDebugResources-61:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\b46c67c6448f04670ec27ab74566d7a0\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/faikarghifari/.gradle/caches/transforms-3/e7a43f5a01603e0a2c7c74ebcfa272e9/transformed/appcompat-1.5.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-3\\3f1c5d1ace0019556b7c060008ab6c70\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "/Users/faikarghifari/.gradle/caches/transforms-3/9603e87743b1aaef3b14b8f43bb5cb93/transformed/core-1.9.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
